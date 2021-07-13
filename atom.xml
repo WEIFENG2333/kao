@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.bkfeng.top</id>
-    <title>Gridea</title>
-    <updated>2021-07-13T06:39:05.198Z</updated>
+    <title>本卡风</title>
+    <updated>2021-07-13T06:40:37.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.bkfeng.top"/>
     <link rel="self" href="https://blog.bkfeng.top/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>本卡风-四六级考研资料</subtitle>
     <logo>https://blog.bkfeng.top/images/avatar.png</logo>
     <icon>https://blog.bkfeng.top/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, 本卡风</rights>
     <entry>
         <title type="html"><![CDATA[公务员+事业编+教师类！！（链接不定期更新）]]></title>
         <id>https://blog.bkfeng.top/class/</id>
