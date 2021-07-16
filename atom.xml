@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.bkfeng.top</id>
-    <title>本卡风</title>
-    <updated>2021-07-16T12:04:57.015Z</updated>
+    <title>本卡风-专注四六级考研资料分享</title>
+    <updated>2021-07-16T12:07:28.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.bkfeng.top"/>
     <link rel="self" href="https://blog.bkfeng.top/atom.xml"/>
     <subtitle>本卡风-四六级考研资料</subtitle>
     <logo>https://blog.bkfeng.top/images/avatar.png</logo>
     <icon>https://blog.bkfeng.top/favicon.ico</icon>
-    <rights>All rights reserved 2021, 本卡风</rights>
+    <rights>All rights reserved 2021, 本卡风-专注四六级考研资料分享</rights>
     <entry>
         <title type="html"><![CDATA[教师相关（单独）]]></title>
         <id>https://blog.bkfeng.top/iW8HNaCj0/</id>
